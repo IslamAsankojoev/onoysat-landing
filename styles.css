@@ -88,6 +88,15 @@ body {
     height: 90px;
     width: 90px;
 }
+@media (max-width: 768px) {
+  .logo{
+    height: 60px;
+  }
+  .logo img {
+    height: 60px;
+    width: 60px;
+  }
+}
 
 /* Hero Section */
 .hero {
